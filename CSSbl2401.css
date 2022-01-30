@@ -1,0 +1,22 @@
+.flex-container{
+    display:flex;
+    height:max-content;
+    background-color: white;
+    border: 2px solid blue;
+}
+.prrnt{
+    width:auto;
+    height: auto;
+}
+#gul{
+    width:200px;
+    height:auto;
+    margin: 20px;
+}
+h3{
+    margin: 20px;
+}
+p{
+    width: auto;
+    margin: 20px;
+}
